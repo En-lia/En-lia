@@ -1,5 +1,5 @@
 <h2 align="left">Hey there!</h1>
-<p>I'm Elina, Frontend Developer from <b>Saint Petersburg</b>, currently living in <b>Barcelona</b></p>
+<p>I'm Elina, Frontend Developer from Saint Petersburg, currently living in <b>Barcelona</b></p>
 
 <h4 align="left">Here are the languages and tools I use:</h3>
 <p align="left"> 
